@@ -1,5 +1,10 @@
 # Plant Page - Your Green Oasis
+
+Deployed Link: https://legendary-licorice-502d59.netlify.app
+
 Bootstrap Setup: As this is an offline version using Bootstrap, set up the necessary files. Refer to the Bootstrap Documentation for details on how to include Bootstrap in your project.
+
+Description: 
 
 Welcome to the Plant Page, an immersive experience designed to showcase the beauty of nature. This page is fully responsive, ensuring an optimal viewing experience on all devices.
 
